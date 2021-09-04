@@ -1,0 +1,1 @@
+export let person = {name: "Alice", age: 18};
